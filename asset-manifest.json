@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/pertemuan3_react_state_props/static/css/main.38328777.chunk.css",
+    "main.js": "/pertemuan3_react_state_props/static/js/main.1babe804.chunk.js",
+    "main.js.map": "/pertemuan3_react_state_props/static/js/main.1babe804.chunk.js.map",
+    "runtime-main.js": "/pertemuan3_react_state_props/static/js/runtime-main.8bdd7412.js",
+    "runtime-main.js.map": "/pertemuan3_react_state_props/static/js/runtime-main.8bdd7412.js.map",
+    "static/js/2.fd06eb56.chunk.js": "/pertemuan3_react_state_props/static/js/2.fd06eb56.chunk.js",
+    "static/js/2.fd06eb56.chunk.js.map": "/pertemuan3_react_state_props/static/js/2.fd06eb56.chunk.js.map",
+    "index.html": "/pertemuan3_react_state_props/index.html",
+    "precache-manifest.9bf90352c3dec1e8fac3d746ea61a95b.js": "/pertemuan3_react_state_props/precache-manifest.9bf90352c3dec1e8fac3d746ea61a95b.js",
+    "service-worker.js": "/pertemuan3_react_state_props/service-worker.js",
+    "static/css/main.38328777.chunk.css.map": "/pertemuan3_react_state_props/static/css/main.38328777.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8bdd7412.js",
+    "static/js/2.fd06eb56.chunk.js",
+    "static/css/main.38328777.chunk.css",
+    "static/js/main.1babe804.chunk.js"
+  ]
+}
